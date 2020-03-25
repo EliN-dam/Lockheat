@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
 <!-- https://validator.w3.org/feed/docs/atom.html -->
     <channel>
         <title>Ejercicio de Sindicación Atom</title>
-        <link rel="self" type="feed/rss+xml" href="https://elin-dam.github.io/Sindicacion/rss/feed.atom"/>
+        <link rel="self" type="application/rss+xml" href="https://elin-dam.github.io/Sindicacion/rss/feed.atom"/>
         <updated>2020-03-25T17:50:00-01:00</updated>
         <author>
             <name>Elí Nahum</name>
@@ -62,4 +62,4 @@
             </content>
         </entry>
     </channel>
-</rss>
+</feed>

@@ -5,7 +5,7 @@
         <title>Ejercicio de Sindicación RSS 2.0</title>
         <link>https://elin-dam.github.io/Sindicacion/</link>
         <description>Prueba de suscripción de contenido mediante RSS 2.0 para la actividad AE6.1</description>
-        <atom:link href="https://elin-dam.github.io/Sindicacion/rss/feedRSS.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://elin-dam.github.io/Sindicacion/rss/feed.rss" rel="self" type="application/rss+xml"/>
         <language>ES</language>
         <image>
             <title>Ejercicio de Sindicación RSS 2.0</title>
