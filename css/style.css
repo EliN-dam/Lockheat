@@ -35,6 +35,22 @@ a {
     justify-content: center;
 }
 
+    .content-container .content {
+        background: #fff;
+        max-width: 90%;
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+        .content-container .content h1 {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .content-container .content p {
+            text-align: justify;
+        }
+
     .content-container section {
         display: flex;
         justify-content: space-around;
@@ -51,17 +67,17 @@ a {
             font-size: 1.5rem;
             padding: .75rem 2.5rem;
             border-radius: .75rem;
-            cursor: pointer;
             transition: all .5s ease-in-out;
         }
 
             .content-container section .btn:hover {
                 text-shadow: 2px 2px 2px #000;
+                color: #E1E1E1;
             }
 
-            .content-container section .btn i {
-                margin-right: .5rem;
-            }
+                .content-container section .btn i {
+                    margin-right: .5rem;
+                }
         
         .content-container section .valid {
             transform: scale(.8);
