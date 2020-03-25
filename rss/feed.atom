@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns="http://www.w3.org/2005/Atom">
+<!-- https://validator.w3.org/feed/docs/atom.html -->
+    <channel>
+        <title>Ejercicio de Sindicación Atom</title>
+        <link rel="self" type="feed/rss+xml" href="https://elin-dam.github.io/Sindicacion/rss/feed.atom"/>
+        <updated>2020-03-25T17:50:00-01:00</updated>
+        <author>
+            <name>Elí Nahum</name>
+            <email>elimasterpc@gmail.com</email>
+        </author>
+        <subtitle>Prueba de suscripción de contenido mediante RSS 2.0 para la actividad AE6.1</subtitle>
+        <id>https://elin-dam.github.io/Sindicacion/rss/feed.atom</id>
+        <logo>https://elin-dam.github.io/Sindicacion/img/atom.png</logo>
+        <entry>
+            <title>El tiempo en Santa Cruz de Tenerife</title>
+            <link rel="alternate" type="text/html" href="https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html"/>
+            <id>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</id>
+            <updated>2020-03-25T17:50:00-01:00</updated>
+            <author>
+                <name>Tiempo.es</name>
+                <uri>https://www.tiempo.es/</uri>
+            </author>
+            <content>
+                En Santa Cruz de Tenerife, cielos poco nubosos en la mañana y temperaturas 
+                de 17ºC y 20ºC. En el transcurso del mediodía, habrá nubes con temperaturas 
+                alrededor de los 20ºC. Durante la tarde en Santa Cruz de Tenerife, cielos 
+                poco nubosos con valores de 17ºC a 19ºC. En la noche, cielos poco nublados 
+                y temperaturas de 16ºC y 17ºC. Vientos flojos del este con velocidades de 
+                hasta 12 km/h.
+            </content>
+        </entry>
+        <entry>
+            <title>Otra página de prueba</title>
+            <link rel="alternate" type="text/html" href="https://elin-dam.github.io/Sindicacion/html/otra.html"/>
+            <id>https://elin-dam.github.io/Sindicacion/html/otra.html</id>
+            <updated>2020-03-25T17:50:00-01:00</updated>
+            <author>
+                <name>Elí Nahum</name>
+                <email>elimasterpc@gmail.com</email>
+            </author>
+            <content>
+                Prueba sobre añadir contenido en el mismo dominio que la web.
+            </content>
+        </entry>
+        <entry>
+            <title>Disney+ se estrena en españa</title>
+            <link rel="alternate" type="text/html" href="https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-7500-episodios-series/2010691.shtml"/>
+            <id>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-7500-episodios-series/2010691.shtml</id>
+            <updated>2020-03-25T17:50:00-01:00</updated>
+            <author>
+                <name>RTVE.es</name>
+                <uri>https://www.rtve.es/</uri>
+            </author>
+            <content>
+                Uno de los gigantes del mundo del entretenimiento abre hoy en España su plataforma 
+                de streaming. En efecto, estamos hablando de Disney Plus. Abre hoy, día 24 de marzo, 
+                su propia plataforma al más puro estilo de Netflix o HBO. Disney ya no solo es 
+                conocida por su castillo abriendo sus películas de dibujos animados, sino que hoy en 
+                día también posee todo el contenido de Marvel, de Lucasfilm que incluye Indiana Jones 
+                y Star Wars, además de la compra de Fox.
+            </content>
+        </entry>
+    </channel>
+</rss>

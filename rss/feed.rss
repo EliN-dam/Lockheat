@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<!-- https://validator.w3.org/feed/docs/rss2.html -->
     <channel>
         <title>Ejercicio de Sindicación RSS 2.0</title>
         <link>https://elin-dam.github.io/Sindicacion/</link>
