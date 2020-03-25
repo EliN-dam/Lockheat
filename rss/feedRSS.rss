@@ -7,7 +7,7 @@
         <atom:link href="https://elin-dam.github.io/Sindicacion/rss/feedRSS.rss" rel="self" type="application/rss+xml"/>
         <language>ES</language>
         <image>
-            <title>https://elin-dam.github.io/Sindicacion/ - Sindicación de contenidos - RSS 2.0</title>
+            <title>Ejercicio de Sindicación RSS 2.0</title>
             <url>https://elin-dam.github.io/Sindicacion/img/rss.png</url>
             <link>https://elin-dam.github.io/Sindicacion/</link>
             <width>120</width>
