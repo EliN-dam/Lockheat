@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ejercicio de Sindicación RSS 2.0</title>
         <link>https://elin-dam.github.io/Sindicacion/</link>
         <description>Prueba de suscripción de contenido mediante RSS 2.0 para la actividad AE6.1</description>
+        <atom:link href="https://elin-dam.github.io/Sindicacion/rss/feedRSS.rss" rel="self" type="application/rss+xml"/>
         <language>ES</language>
         <image>
-            <title>Logo RSS</title>
+            <title>https://elin-dam.github.io/Sindicacion/ - Sindicación de contenidos - RSS 2.0</title>
             <url>https://elin-dam.github.io/Sindicacion/img/rss.png</url>
             <link>https://elin-dam.github.io/Sindicacion/</link>
             <width>120</width>
@@ -36,12 +37,8 @@
         </item>
         <item>
             <title>Disney+ se estrena en españa</title>
-            <link>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-
-                7500-episodios-series/2010691.shtml
-            </link>
-            <guid>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-
-                7500-episodios-series/2010691.shtml
-            </guid>
+            <link>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-7500-episodios-series/2010691.shtml</link>
+            <guid>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-7500-episodios-series/2010691.shtml</guid>
             <description>
                 Uno de los gigantes del mundo del entretenimiento abre hoy en España su plataforma 
                 de streaming. En efecto, estamos hablando de Disney Plus. Abre hoy, día 24 de marzo, 
