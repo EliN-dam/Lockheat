@@ -2,13 +2,13 @@
 <rss version="2.0">
     <channel>
         <title>Ejercicio de Sindicación RSS 2.0</title>
-        <link>Dirección de la web en la que se encuentre nuesto RSS</link>
+        <link>https://elin-dam.github.io/Sindicacion/</link>
         <description>Prueba de suscripción de contenido mediante RSS 2.0 para la actividad AE6.1</description>
         <language>ES</language>
         <image>
             <title>Logo RSS</title>
-            <url>http://www.mipagina.com/logotipo-del-rss.html</url>
-            <link>http://www.mipagina.com</link>
+            <url>https://elin-dam.github.io/Sindicacion/img/rss.png</url>
+            <link>https://elin-dam.github.io/Sindicacion/</link>
             <width>120</width>
             <height>120</height>
         </image>
@@ -16,12 +16,39 @@
         <item>
             <title>El tiempo en Santa Cruz de Tenerife</title>
             <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
-            <description>En Santa Cruz de Tenerife, cielos poco nubosos en la mañana y temperaturas 
-                         de 17ºC y 20ºC. En el transcurso del mediodía, habrá nubes con temperaturas 
-                         alrededor de los 20ºC. Durante la tarde en Santa Cruz de Tenerife, cielos 
-                         poco nubosos con valores de 17ºC a 19ºC. En la noche, cielos poco nublados 
-                         y temperaturas de 16ºC y 17ºC. Vientos flojos del este con velocidades de 
-                         hasta 12 km/h.
+            <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
+            <description>
+                En Santa Cruz de Tenerife, cielos poco nubosos en la mañana y temperaturas 
+                de 17ºC y 20ºC. En el transcurso del mediodía, habrá nubes con temperaturas 
+                alrededor de los 20ºC. Durante la tarde en Santa Cruz de Tenerife, cielos 
+                poco nubosos con valores de 17ºC a 19ºC. En la noche, cielos poco nublados 
+                y temperaturas de 16ºC y 17ºC. Vientos flojos del este con velocidades de 
+                hasta 12 km/h.
+            </description>
+        </item>
+        <item>
+            <title>Otra página de prueba</title>
+            <link>https://elin-dam.github.io/Sindicacion/html/otra.html</link>
+            <guid>https://elin-dam.github.io/Sindicacion/html/otra.html</guid>
+            <description>
+                Prueba sobre añadir contenido en el mismo dominio que la web.
+            </description>
+        </item>
+        <item>
+            <title>Disney+ se estrena en españa</title>
+            <link>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-
+                7500-episodios-series/2010691.shtml
+            </link>
+            <guid>https://www.rtve.es/playz/20200324/disney-plus-estrena-plataforma-400-peliculas-
+                7500-episodios-series/2010691.shtml
+            </guid>
+            <description>
+                Uno de los gigantes del mundo del entretenimiento abre hoy en España su plataforma 
+                de streaming. En efecto, estamos hablando de Disney Plus. Abre hoy, día 24 de marzo, 
+                su propia plataforma al más puro estilo de Netflix o HBO. Disney ya no solo es 
+                conocida por su castillo abriendo sus películas de dibujos animados, sino que hoy en 
+                día también posee todo el contenido de Marvel, de Lucasfilm que incluye Indiana Jones 
+                y Star Wars, además de la compra de Fox.
             </description>
         </item>
     </channel>
